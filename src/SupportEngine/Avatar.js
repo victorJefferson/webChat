@@ -13,7 +13,7 @@ const Avatar = ({ style, onClick }) => {
           ...{ opacity: hovered ? '1' : '0' },
         }}
       >
-        Hey it's Victor!
+        Hey it's Victor 🤙
       </div>
       <div
         className='transition-3'

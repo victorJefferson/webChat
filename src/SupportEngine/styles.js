@@ -5,7 +5,7 @@ export const styles = {
     // Border
     borderRadius: '50%',
     // Background
-    backgroundImage: `url(https://chat-engine-assets.s3.amazonaws.com/tutorials/my-face-min.png)`,
+    backgroundImage: `url(https://www.gravatar.com/avatar/240963c15295b456ed914df1c7446044?s=200&r=pg&d=mm)`,
     backgroundRepeat: 'no-repeat',
     backgroundPosition: 'center',
     backgroundSize: '84px',
